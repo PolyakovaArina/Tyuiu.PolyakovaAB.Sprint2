@@ -1,5 +1,5 @@
-﻿using Tyuiu.PolyakovaAB.Sprint2.Test3.V25.Lib;
-namespace Tyuiu.PolyakovaAB.Sprint2.Test3.V25.Test
+﻿using Tyuiu.PolyakovaAB.Sprint2.Task3.V25.Lib;
+namespace Tyuiu.PolyakovaAB.Sprint2.Task3.V25.Test
 {
     [TestClass]
     public sealed class DataServiceTest

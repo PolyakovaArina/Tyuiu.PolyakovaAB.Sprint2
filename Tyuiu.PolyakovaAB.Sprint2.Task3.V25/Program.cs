@@ -1,5 +1,5 @@
-﻿using Tyuiu.PolyakovaAB.Sprint2.Test3.V25.Lib;
-namespace Tyuiu.PolyakovaAB.Sprint2.Test3.V25
+﻿using Tyuiu.PolyakovaAB.Sprint2.Task3.V25.Lib;
+namespace Tyuiu.PolyakovaAB.Sprint2.Task3.V25
 {
     internal class Program
     {

@@ -15,8 +15,8 @@
     <Project Path="Tyuiu.PolyakovaAB.Sprint2.Task2.V20/Tyuiu.PolyakovaAB.Sprint2.Task2.V20.csproj" />
   </Folder>
   <Folder Name="/Task3/">
-    <Project Path="Tyuiu.PolyakovaAB.Sprint2.Test3.V25.Lib/Tyuiu.PolyakovaAB.Sprint2.Test3.V25.Lib.csproj" />
-    <Project Path="Tyuiu.PolyakovaAB.Sprint2.Test3.V25.Test/Tyuiu.PolyakovaAB.Sprint2.Test3.V25.Test.csproj" />
-    <Project Path="Tyuiu.PolyakovaAB.Sprint2.Test3.V25/Tyuiu.PolyakovaAB.Sprint2.Test3.V25.csproj" />
+    <Project Path="Tyuiu.PolyakovaAB.Sprint2.Task3.V25.Lib/Tyuiu.PolyakovaAB.Sprint2.Task3.V25.Lib.csproj" />
+    <Project Path="Tyuiu.PolyakovaAB.Sprint2.Task3.V25.Test/Tyuiu.PolyakovaAB.Sprint2.Task3.V25.Test.csproj" />
+    <Project Path="Tyuiu.PolyakovaAB.Sprint2.Task3.V25/Tyuiu.PolyakovaAB.Sprint2.Task3.V25.csproj" />
   </Folder>
 </Solution>
