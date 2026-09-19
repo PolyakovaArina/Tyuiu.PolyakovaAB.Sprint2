@@ -24,7 +24,7 @@ namespace Tyuiu.PolyakovaAB.Sprint2.Task0.V5
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*Введите х:                                                               *");
             x = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("*Введите у:                                                               *");
+            Console.WriteLine("*Введите y:                                                               *");
             y = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
